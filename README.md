@@ -9,7 +9,7 @@
 ## 🧾 Resume
 
 🚀 **Download the Latest Version**  
-👉 [Click here to view or download my resume (PDF)](./Adarsh_Singh_Resume.pdf)
+👉 [Click here to view or download my resume (PDF)](./Adarsh_Resume.pdf)
 
 > *“Building cloud automation pipelines with code, not clicks.”* ☁️⚙️  
 
@@ -66,7 +66,7 @@ Strong foundation in **Linux administration, networking, and scripting (Python, 
 
 ## 🏅 Certifications
 
-- **AWS Cloud Practitioner** — [Amazon Web Services](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
+- **AWS Cloud Practitioner** — [Amazon Web Services](https://www.linkedin.com/posts/adarshsingh3618_aws-cloud-practitioner-essentials-activity-7393174828624703488-frz9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGBXA98Bq3HLgioj9E0gdTmm99Keql5_4ac)  
 - **DevOps Professional** — [Udemy Certificate](https://www.udemy.com/certificate/UC-6319848b-b06d-4fcd-af3f-d0b0b7385979/)  
 
 ---
@@ -78,6 +78,7 @@ Strong foundation in **Linux administration, networking, and scripting (Python, 
 📧 [adarshsingh3618@gmail.com](mailto:adarshsingh3618@gmail.com)
 
 ---
+<!-- > “I’m not building a resume. I’m building a kingdom.” 👑💼🔥  -->
 
-> “I’m not building a resume. I’m building a kingdom.” 👑💼🔥  
+ 
 > — *Adarsh Singh*
